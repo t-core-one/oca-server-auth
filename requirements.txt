@@ -3,3 +3,6 @@ cryptography<37
 email_validator
 lxml
 pysaml2
+python-jose
+python-ldap
+zxcvbn
